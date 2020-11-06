@@ -1,2 +1,2 @@
-# Pharo-Exercises
-Exercises in Pharo
+# Pharo-Programs
+Programs in Pharo
