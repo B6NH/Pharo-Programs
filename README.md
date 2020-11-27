@@ -1,2 +1,3 @@
 # Pharo-Programs
-Programs in Pharo
+
+Various examples exercises and tests in Pharo
